@@ -15,7 +15,12 @@ padding: 16px;
 */
 
  .span roboto-medium {
-        font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-style: normal;
-      }
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.logo-cuppon {
+    height: 50px;
+    width: 100px;
+}
