@@ -1,21 +1,35 @@
-
-
-/*  STYLE CARDS
-.container{
-    padding: 16px;
-    justify-content: center;
-}
-.col{
-padding: 16px;   
+body {
+    font-family: 'Roboto', sans-serif;
 }
 
-.nav link custom-light {
-    color: var(--light);
+.navbar {
+    background-color: #28A745;
 }
-*/
 
- .span roboto-medium {
-        font-family: "Roboto", sans-serif;
-        font-weight: 500;
-        font-style: normal;
-      }
+.logo {
+    width: 150px;
+    height: 50px;
+}
+
+.card {
+    cursor: pointer;
+}
+.parrafo2 {
+    color: #28A745;
+}
+
+.formulario {
+    background-color: #28A745;
+}
+
+.colores {
+    color: #fff;
+}
+
+.imagen-footer {
+    width: 200px;
+}
+
+.gray {
+    color: #7c8981;
+}
